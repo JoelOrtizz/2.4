@@ -1,0 +1,59 @@
+{
+    "cartellera": [
+        {
+            "pelicula": {
+                "idioma": "angles",
+                "titol": "inception",
+                "director": "christopher nolan",
+                "durada": 148
+            },
+            "repartiment": {
+                "actor": {
+                    "protagonista": true,
+                    "nom": "leonardo dicaprio",
+                    "personatge": "dom cobb"
+                },
+                "actor2": {
+                    "protagonista": false,
+                    "nom": "joseph gordon-levitt",
+                    "personatge": "arthur"
+                }
+            },
+            "premis": {
+                "premi1": "oScar als millors efectes visuals",
+                "premi2": "oscar al millor so"
+            },
+            "fotos": {
+                "cartell": "inception_poster.jpg",
+                "escena": "inception_scene1.jpg"
+            }
+        },
+        {
+            "pelicula": {
+                "idioma": "italià",
+                "titol": "la dolce vita",
+                "director": "federico fellini",
+                "durada": 174
+            },
+            "repartiment": {
+                "actor": {
+                    "protagonista": false,
+                    "nom": "marcello mastroianni",
+                    "personatge": "marcello rubini"
+                },
+                "actor2": {
+                    "protagonista": false,
+                    "nom": "anita ekberg",
+                    "personatge": "silvia"
+                }
+            },
+            "premis": {
+                "premi": "palma d'or al festival de cannes"
+            },
+            "fotos": {
+                "cartell": "ladolcevita_poster.jpg",
+                "escena": "ladolcevita_scene1.jpg"
+            }
+        }
+    ]
+}
